@@ -27,22 +27,22 @@ SynapseChat AI is an intelligent conversational chatbot built using **Streamlit*
 ---
 
 ## 📁 Project Structure (Folder Architecture)
+```text
 SynapseChat-AI/
+├── app.py                  # Main Streamlit application (UI layer)
+├── model.py               # AI logic (HuggingFace + Wikipedia processing)
+├── requirements.txt       # Python dependencies
+├── README.md              # Project documentation
 │
-├── app.py # Main Streamlit application (UI layer)
-├── model.py # AI logic (HuggingFace + Wikipedia processing)
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
+├── assets/                # Static files (images, logos, banners)
+│   ├── logo.png           # SynapseChat logo
+│   └── banner.png         # GitHub banner (optional)
 │
-├── assets/ # Static files (images, logos, banners)
-│ ├── logo.png # SynapseChat logo
-│ └── banner.png # GitHub banner (optional)
+├── utils/                 # Helper functions (optional expansion)
+│   └── helpers.py
 │
-├── utils/ # Helper functions (optional expansion)
-│ └── helpers.py
-│
-└── .gitignore # Files to ignore in GitHub
-
+└── .gitignore             # Files to ignore in GitHub
+```
 ---
 
 ## 📸 UI Preview
