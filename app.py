@@ -89,7 +89,7 @@ with st.sidebar:
 # -----------------------------
 # Header
 # -----------------------------
-st.title("🤖 Smart AI Chatbot")
+st.title("🤖 SynapseChat AI")
 st.caption("ChatGPT-style UI with improved design")
 
 # -----------------------------
