@@ -6,7 +6,7 @@ SynapseChat AI is an intelligent conversational chatbot built using **Streamlit*
 
 ## 🚀 Features
 
-- 💬 ChatGPT-style conversational UI using Streamlit  
+- 💬 ChatGPT-style conversational UI using Streamlit
 - 🧠 AI-powered responses using HuggingFace Transformers  
 - 📚 Wikipedia integration for factual answers  
 - ⚡ Fast and lightweight architecture  
